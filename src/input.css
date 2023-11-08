@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-parisienne {
+    font-family: 'Parisienne', cursive;
+}
+.font-abhayalibre-regular{
+    font-family: 'Abhaya Libre', serif;
+    font-weight: 400;
+}
+.font-abhayalibre-medium{
+    font-family: 'Abhaya Libre', serif;
+    font-weight: 500;
+}
+.font-abhayalibre-semibold{
+    font-family: 'Abhaya Libre', serif;
+    font-weight: 600;
+}
